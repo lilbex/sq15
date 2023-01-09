@@ -13,3 +13,19 @@ to point our local repository to github =>
 initialize our current base branch to main: `git branch -M main`
 
 to push our local repo to github => `git push -u origin main`
+
+<!-- whenever you make change to your project, follow this process to push to github-->
+`git add .`
+`git commit -m 'your commit message'`
+`git push`
+
+<!-- to pull changes from github -->
+`git pull` => pull changes from github(remote server) to local repo
+
+<!-- Branching -->
+## A branch is a new/separate version of the main repository
+`git branch` => show all branches
+
+`git branch <branch_name>` => create a new branch
+
+`git checkout <branch_name>` => switch to a branch
