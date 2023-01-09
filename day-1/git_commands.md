@@ -1,3 +1,7 @@
+- Git is a version control system
+- git helps you to keep track of code changes
+- git is used to collaborate with other developers
+
 git add => add file to staging area
 to use git add, `git add <file_name>`
 
@@ -29,3 +33,5 @@ to push our local repo to github => `git push -u origin main`
 `git branch <branch_name>` => create a new branch
 
 `git checkout <branch_name>` => switch to a branch
+
+fix merge conflict
