@@ -35,3 +35,6 @@ to merge new-branch into main => `git merge new-branch`
 
 `git log` => show commit history
 
+`git clone` => use to download a copy of the remote repository into your local machine
+
+
