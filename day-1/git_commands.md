@@ -13,3 +13,5 @@ to point our local repository to github =>
 initialize our current base branch to main: `git branch -M main`
 
 to push our local repo to github => `git push -u origin main`
+
+to merge new-branch into main => `git merge new-branch`
