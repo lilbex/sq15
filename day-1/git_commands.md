@@ -30,3 +30,8 @@ to merge new-branch into main => `git merge new-branch`
 `git branch <branch_name>` => create a new branch
 
 `git checkout <branch_name>` => switch to a branch
+
+to merge new-branch into main => `git merge new-branch`
+
+`git log` => show commit history
+
